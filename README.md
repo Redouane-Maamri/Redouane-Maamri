@@ -38,7 +38,7 @@
 - 📖 **Library Management System** — Laravel + MySQL  
 - 🌐 **EMSI Informational Website** — HTML + Tailwind CSS  
 - ✅ **Advanced To-Do List App** — Filtering, Progress, and Storage  
-- 🗂️ **Portfolio Website** — A clean, responsive personal website built with Tailwind CSS & HTML  
+- 🗂️ **Portfolio Website** — A clean, responsive personal website built with Tailwind CSS & React.js 
 - 📝 **Gestion des Posts** — Symfony project with authentication and full CRUD functionalities for posts and user roles
 
 ---
