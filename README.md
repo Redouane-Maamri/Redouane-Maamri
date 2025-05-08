@@ -1,54 +1,60 @@
 ### 👋 Hi there! I'm Redouane Maamri
 
-🎓 3rd-year Computer Science & Networks Engineering Student at EMSI  
-🧠 Passionate about **Web Development**, **DevOps**, and building impactful software  
-🚀 Currently learning and building with **Laravel**, **React**, **Django**, and **MySQL**  
-💼 Future goal: Become a **professional DevOps Engineer**
+🎓 3rd-year Computer Science & Networks Engineering Student at **EMSI**  
+🧠 Passionate about **Web Development**, **DevOps**, and building real-world applications  
+🚀 Currently learning and building with **Laravel**, **React**, **Django**, and **SQL Server**  
+🎯 Future goals: Become a **professional DevOps Engineer** and a **skilled freelance developer**
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ My Tech Toolbox
 
-**Languages & Frameworks**  
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)  
-![PHP](https://img.shields.io/badge/-PHP-8892BF?style=flat-square&logo=php)  
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)  
-![Laravel](https://img.shields.io/badge/-Laravel-red?style=flat-square&logo=laravel)  
-![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react)  
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django)
+#### 💻 Languages & Frameworks
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white" />
+</p>
 
-**Tools & Platforms**  
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code)  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)  
-![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
-
----
-
-### 🧩 Projects
-
-- 🎬 Movie Ticket Reservation App using **Django + React**
-- 📚 Library Management System in **Laravel**
-- 🌐 EMSI Website (HTML, CSS, Tailwind)
-- ✅ Advanced To-Do App with filtering and progress tracking
+#### 🛠️ Tools & Platforms
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
+</p>
 
 ---
 
-### 🌱 I’m currently:
+### 📚 My Projects
 
-- Building cool projects with **full-stack technologies**
-- Learning Docker, CI/CD, and AWS for my **DevOps roadmap**
-- Improving my English & communication skills
-- Open to **internships**, **freelance**, and collaboration
+- 🎬 **Movie Ticket Reservation App** — Django + React  
+- 📖 **Library Management System** — Laravel + MySQL  
+- 🌐 **EMSI Informational Website** — HTML + Tailwind CSS  
+- ✅ **Advanced To-Do List App** — Filtering, Progress, and Storage
+
+---
+
+### 🌱 I'm Currently:
+
+- Learning **Docker**, **CI/CD**, and **Cloud (AWS)**  
+- Building **freelance-ready projects** to strengthen my portfolio  
+- Practicing English to improve **fluency and communication**  
+- Open to **internships**, **freelancing gigs**, and **collaboration**
 
 ---
 
 ### 📫 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/redouane-maamri/)  
-[![Email](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/redouane-maamri-487895292/)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:maamriredouane9@gmail.com)
 
 ---
 
-### 💡 Quote that inspires me  
-> *"Success is the result of preparation, hard work, and learning from failure."* – Colin Powell
+### 💡 Favorite Quote  
+> *"Success is the result of preparation, hard work, and learning from failure."* — Colin Powell
