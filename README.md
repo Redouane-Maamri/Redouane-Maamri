@@ -17,6 +17,7 @@
   <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Symfony-000000?style=flat&logo=symfony&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white" />
 </p>
@@ -36,7 +37,9 @@
 - 🎬 **Movie Ticket Reservation App** — Django + React  
 - 📖 **Library Management System** — Laravel + MySQL  
 - 🌐 **EMSI Informational Website** — HTML + Tailwind CSS  
-- ✅ **Advanced To-Do List App** — Filtering, Progress, and Storage
+- ✅ **Advanced To-Do List App** — Filtering, Progress, and Storage  
+- 🗂️ **Portfolio Website** — A clean, responsive personal website built with Tailwind CSS & HTML  
+- 📝 **Gestion des Posts** — Symfony project with authentication and full CRUD functionalities for posts and user roles
 
 ---
 
