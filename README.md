@@ -1,4 +1,5 @@
-### 👋 Hi there! I'm Redouane Maamri
+### 👋 Hi there! I'm Redouane Maamri                            
+> *"Bringing ideas to life with code, automation & design."*
 
 🎓 3rd-year Computer Science & Networks Engineering Student at **EMSI**  
 🧠 Passionate about **Web Development**, **DevOps**, and building real-world applications  
