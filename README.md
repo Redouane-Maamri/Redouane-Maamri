@@ -1,7 +1,7 @@
-### 👋 Hi there! I'm Redouane Maamri                            
+### 👋 I'm Redouane Maamri                            
 > *"Bringing ideas to life with code, automation & design."*
 
-🎓 3rd-year Computer Science & Networks Engineering Student at **EMSI**  
+🎓 4rd-year Computer Science & Networks Engineering Student at **EMSI**  
 🧠 Passionate about **Web Development**, **DevOps**, and building real-world applications  
 🚀 Currently learning and building with **Laravel**, **React**, **Django**, and **SQL Server**  
 🎯 Future goals: Become a **professional DevOps Engineer** and a **skilled freelance developer**
