@@ -42,7 +42,8 @@
 - 🗂️ **Portfolio Website** — A clean, responsive personal website built with Tailwind CSS & React.js 
 - 📝 **Gestion des Posts** — Symfony project with authentication and full CRUD functionalities for posts and user roles
 
----
+---🚀 [Check out my portfolio](https://portfolioredouane.vercel.app)  
+
 
 ### 🌱 I'm Currently:
 
