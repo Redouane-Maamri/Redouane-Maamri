@@ -1,16 +1,16 @@
-### 👋 I'm Redouane Maamri                            
-> *"Bringing ideas to life with code, automation & design."*
+# 👋 Hi, I'm Redouane Maamri  
 
-🎓 4rd-year Computer Science & Networks Engineering Student at **EMSI**  
-🧠 Passionate about **Web Development**, **DevOps**, and building real-world applications  
-🚀 Currently learning and building with **Laravel**, **React**, **Django**, and **SQL Server**  
-🎯 Future goals: Become a **professional DevOps Engineer** and a **skilled freelance developer**
+> *"Transforming ideas into scalable digital solutions — through code, design, and automation."*
+
+🎓 Final-year Computer Science & Networks Engineering student at **EMSI**  
+💼 Aspiring **DevOps Engineer** & skilled **Web Developer** with a strong foundation in backend & frontend frameworks  
+🧠 Passionate about building impactful, real-world applications with a focus on **clean code**, **efficiency**, and **user experience**
 
 ---
 
-### 🛠️ My Tech Toolbox
+## 🧰 Tech Stack
 
-#### 💻 Languages & Frameworks
+### 💻 Languages & Frameworks
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white" />
 </p>
 
-#### 🛠️ Tools & Platforms
+### 🛠️ Tools & Platforms
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
@@ -33,31 +33,31 @@
 
 ---
 
-### 📚 My Projects
+## 📂 Featured Projects
 
-- 🎬 **Movie Ticket Reservation App** — Django + React  
-- 📖 **Library Management System** — Laravel + MySQL  
-- 🌐 **EMSI Informational Website** — HTML + Tailwind CSS  
-- ✅ **Advanced To-Do List App** — Filtering, Progress, and Storage  
-- 🗂️ **Portfolio Website** — A clean, responsive personal website built with Tailwind CSS & React.js 
-- 📝 **Gestion des Posts** — Symfony project with authentication and full CRUD functionalities for posts and user roles
-
----🚀 [Check out my portfolio](https://portfolioredouane.vercel.app)  
-
-
-### 🌱 I'm Currently:
-
-- Learning **Docker**, **CI/CD**, and **Cloud (AWS)**  
-- Building **freelance-ready projects** to strengthen my portfolio  
-- Practicing English to improve **fluency and communication**  
-- Open to **internships**, **freelancing gigs**, and **collaboration**
+- 🎬 **Movie Ticket Reservation System** — Full-stack app (Django + React)
+- 📚 **Library Management Platform** — Laravel + MySQL admin dashboard
+- 🌐 **EMSI Website Clone** — Static UI website (HTML + Tailwind CSS)
+- ✅ **Smart To-Do List** — Filtering, storage, and task tracking system
+- 🗂️ **Developer Portfolio** — Fully responsive site (React + Tailwind CSS)
+- 📝 **Post Management App** — Symfony-based CRUD app with role-based access
 
 ---
 
-### 📫 Let's Connect!
+## 🌱 Currently Exploring
+
+- 🔧 **Docker**, **CI/CD pipelines**, and **AWS Cloud services**
+- 🔍 Improving code quality with **Clean Architecture & Testing**
+- 🌐 Building real freelance-ready tools & SaaS-style projects
+- 💬 Sharpening **communication & English fluency** for global work
+
+---
+
+## 🤝 Let’s Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/redouane-maamri-487895292/)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:maamriredouane9@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:maamriredouane9@gmail.com)  
+[🌐 Visit my portfolio](https://portfolioredouane.vercel.app)
 
 ---
 
