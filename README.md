@@ -2,7 +2,7 @@
 
 > *"Transforming ideas into scalable digital solutions — through code, design, and automation."*
 
-🎓 Final-year Computer Science & Networks Engineering student at **EMSI**  
+🎓 Fourth-year Computer Science & Networks Engineering student at **EMSI**  
 💼 Aspiring **DevOps Engineer** & skilled **Web Developer** with a strong foundation in backend & frontend frameworks  
 🧠 Passionate about building impactful, real-world applications with a focus on **clean code**, **efficiency**, and **user experience**
 
